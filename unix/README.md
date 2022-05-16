@@ -3,4 +3,4 @@
 - `pem to p12:` openssl pkcs12 -export -out spiderman.p12 -in spiderman.pem
 
 <h1>Suche</h1>
-- 	`Auflistung aller Dateien` find <PATH> -type f -exec ls -l {} \;
+- `Auflistung aller Dateien:` find <PATH> -type f -exec ls -l {} \;
